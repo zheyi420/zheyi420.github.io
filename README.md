@@ -7,7 +7,7 @@
 
 # WebGIS Dev Repo
 
-- <span title="积极开发中 🔄 Active🚀">✨ [GeoDataVis](https://zheyi420.github.io/GeoDataVis/) - View map services and geographic data files on the web. [Based on CesiumJS]
+- <span title="积极开发中 🔄 Active🚀">✨ [GeoDataVis](https://zheyi420.github.io/GeoDataVis/)</span> - View map services and geographic data files on the web. [Based on CesiumJS]
 
 - <span title="该项目已停止开发 🔄 This project has ceased development">📦 [Cesium Demo](https://zheyi420.github.io/cesium-demo/)</span> - A WebGIS demo built with Vue.js(3.x), Vite and CesiumJS.
 
